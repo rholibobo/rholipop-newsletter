@@ -1,0 +1,16 @@
+{
+  "name": "sheetdb-api",
+  "version": "1.0.0",
+  "description": "A database Template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rholipop",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-validator": "^6.14.1",
+    "sheetdb-node": "^0.0.12"
+  }
+}
